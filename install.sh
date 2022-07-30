@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir core
 sudo apt install git
 git clone git@github.com:TheSilentNoob/Fast-Message.git
 mv Fast-Message core
